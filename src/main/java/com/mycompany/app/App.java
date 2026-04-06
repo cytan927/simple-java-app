@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Random change to force a build on Jenkins!!!");
+        System.out.println("New change to demo webhook on Jenkins!!!");
     }
 
     public String getMessage() {
